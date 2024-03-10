@@ -1,0 +1,137 @@
+{
+    "users": [
+      {
+        "id": "cc99",
+        "name": "Not",
+        "email": "not@example.com",
+        "password": 123,
+        "avatar_url": "https://love.doghero.com.br/wp-content/uploads/2020/12/adorable-cat-being-held-by-someone_23-2148683021.jpg",
+        "description": "Desenvolvedor Full-Stack",
+        "github_address": "https://github.com/NOT39",
+        "linkedin_address": "https://www.linkedin.com/in/not39/",
+        "pinned_projects": [
+          "daae",
+          "735e"
+        ]
+      },
+      {
+        "id": "bfbe",
+        "name": "Davi",
+        "email": "davi@example.com",
+        "password": 321,
+        "avatar_url": "https://www.petz.com.br/blog//wp-content/uploads/2020/08/cat-cafe-pet.jpg",
+        "description": "Desenvolvedor Full-Stack",
+        "github_address": "https://github.com/",
+        "linkedin_address": "https://www.linkedin.com/",
+        "pinned_projects": [
+          "ed3f",
+          "71b2"
+        ]
+      },
+      {
+        "id": "21a1",
+        "name": "Arthur",
+        "email": "arthur@example.com",
+        "password": 321,
+        "description": "Desenvolvedor",
+        "avatar_url": "https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_square.jpg",
+        "github_address": "https://github.com/",
+        "linkedin_address": "https://www.linkedin.com/",
+        "pinned_projects": [
+          "1ace"
+        ]
+      },
+      {
+        "id": "f3b9",
+        "name": "Diego",
+        "email": "diego@example.com",
+        "password": 456,
+        "description": "Desenvolvedor",
+        "avatar_url": "https://www.wfla.com/wp-content/uploads/sites/71/2023/05/GettyImages-1389862392.jpg?w=2560&h=1440&crop=1",
+        "github_address": "https://github.com/",
+        "linkedin_address": "https://www.linkedin.com/",
+        "pinned_projects": []
+      },
+      {
+        "id": "   ",
+        "name": "Roberto",
+        "email": "roberto@example.com",
+        "password": 456,
+        "description": "Desenvolvedor",
+        "avatar_url": "https://www.collinsdictionary.com/images/full/cat_156310937.jpg",
+        "github_address": "https://github.com/",
+        "linkedin_address": "https://www.linkedin.com/",
+        "pinned_projects": []
+      },
+      {
+        "id": "9ef3",
+        "name": "Not2",
+        "email": "not@example.com",
+        "password": 123,
+        "avatar_url": "https://love.doghero.com.br/wp-content/uploads/2020/12/adorable-cat-being-held-by-someone_23-2148683021.jpg",
+        "description": "Desenvolvedor Full-Stack",
+        "github_address": "https://github.com/NOT39",
+        "linkedin_address": "https://www.linkedin.com/in/not39/",
+        "pinned_projects": []
+      }
+    ],
+    "projects": [
+      {
+        "id": "daae",
+        "title": "Projeto legal",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus provident ea praesentium quibusdam. Enim doloremque qui quae. Sint dolorum aperiam earum rerum tenetur a atque quia assumenda facilis illum? Corporis?",
+        "image_url": "https://upload.wikimedia.org/wikipedia/it/f/f0/Screenshot_Videoclip_Never_Gonna_Give_You_Up.png",
+        "user_id": "cc99"
+      },
+      {
+        "id": "eb4c",
+        "title": "Projeto Muito legal",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officia consequuntur, accusamus molestias, sapiente blanditiis itaque reiciendis qui repellendus animi provident placeat natus accusantium facilis eius, ullam voluptas delectus dicta dolor!",
+        "image_url": "https://upload.wikimedia.org/wikipedia/it/f/f0/Screenshot_Videoclip_Never_Gonna_Give_You_Up.png",
+        "user_id": "bfbe"
+      },
+      {
+        "id": "735e",
+        "title": "Projeto Muito legal",
+        "description": "lorem ipsum bla bla bla bla",
+        "image_url": "https://upload.wikimedia.org/wikipedia/it/f/f0/Screenshot_Videoclip_Never_Gonna_Give_You_Up.png",
+        "user_id": "cc99"
+      },
+      {
+        "id": "be96",
+        "title": "Projeto",
+        "description": "lorem ipsum bla bla bla bla",
+        "image_url": "https://upload.wikimedia.org/wikipedia/it/f/f0/Screenshot_Videoclip_Never_Gonna_Give_You_Up.png",
+        "user_id": "cc99"
+      },
+      {
+        "id": "ed3f",
+        "title": "Projeto",
+        "description": "lorem ipsum bla bla bla bla",
+        "image_url": "https://upload.wikimedia.org/wikipedia/it/f/f0/Screenshot_Videoclip_Never_Gonna_Give_You_Up.png",
+        "user_id": "bfbe"
+      },
+      {
+        "id": "71b2",
+        "title": "Projeto Divertido",
+        "description": "lorem ipsum bla bla bla bla",
+        "image_url": "https://upload.wikimedia.org/wikipedia/it/f/f0/Screenshot_Videoclip_Never_Gonna_Give_You_Up.png",
+        "user_id": "bfbe"
+      },
+      {
+        "id": "1ace",
+        "title": "Projeto Massa",
+        "description": "lorem ipsum bla bla bla bla",
+        "image_url": "https://upload.wikimedia.org/wikipedia/it/f/f0/Screenshot_Videoclip_Never_Gonna_Give_You_Up.png",
+        "user_id": "21a1"
+      },
+      {
+        "id": "13e1",
+        "title": "Titulo",
+        "description": "Descrição",
+        "image_url": "https://upload.wikimedia.org/wikipedia/it/f/f0/Screenshot_Videoclip_Never_Gonna_Give_You_Up.png",
+        "user_id": "32e5"
+      }
+    ]
+  }
+
